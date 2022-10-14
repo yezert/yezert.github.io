@@ -1,0 +1,18 @@
+:root {
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+}
+
+/* main {
+    display:flex;
+    justify-content:center;
+    height:100vh;
+    align-items:center;
+    font-weight:700;
+  }
+  .mainH1 {
+    filter: drop-shadow(#CD7F32,5,4,3);
+    font-size:100px;
+  } */
+
+  
